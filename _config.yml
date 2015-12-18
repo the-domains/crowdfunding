@@ -1,0 +1,28 @@
+name: Crowdfunding
+favicon: null
+layout_spectrum: 0.4441472408361733
+typography_spectrum: 0.7319605560041964
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.02521541155874729
+  lightness: 0.8210943590383977
+  saturation: 0.7973582493141294
+  rhythmicContrast: 0.1693536250386387
+purpose: []
